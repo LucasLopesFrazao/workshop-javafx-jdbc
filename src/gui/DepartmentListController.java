@@ -21,8 +21,6 @@ public class DepartmentListController implements Initializable {
 
 	private DepartmentService service;
 	
-	
-	
 	@FXML
 	private TableView<Department> tableViewDepartment;
 	@FXML
