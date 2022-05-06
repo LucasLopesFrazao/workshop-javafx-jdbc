@@ -1,4 +1,4 @@
-# Workshop com o intuito de aprofundar nos conhecimentos de Java, JavaFX e JDBC
+# Workshop com o intuito de aprofundação nos conhecimentos de Java, JavaFX e JDBC
 
 ## O que eu aprendi com esse workshop?
 * Banco de dados SQL e como utiliza-lo com Java.
